@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34597012fd3c2b34280aebf5e9a8827d, type: 3}
+  m_Name: PlaneSword
+  m_EditorClassIdentifier: 
+  WeaponType: 0
+  AttackEffect: {fileID: 600112641596014853, guid: 7cf213db495e686478bc2486b8aa7587,
+    type: 3}
+  HitEffect: {fileID: 7998644587546741049, guid: 163a56f826ca23543a870133438eed7d,
+    type: 3}

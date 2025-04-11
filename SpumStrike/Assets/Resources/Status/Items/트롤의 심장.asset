@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 5f2f51313aab3414b89ffd2acfe8e544, type: 3}
+  m_Name: "\uD2B8\uB864\uC758 \uC2EC\uC7A5"
+  m_EditorClassIdentifier: 
+  Value: 1
+  Name: "\uD2B8\uB864\uC758 \uC2EC\uC7A5"
+  ToolTipText: "\uCD5C\uB300\uCCB4\uB825 10% \uC99D\uAC00"
+  Option: 1
+  Figure: 10
+  SpriteImage: {fileID: 21300000, guid: afacb48c4aaf24b91a94b80dcb0d8fb0, type: 3}
+  Weight: 200
